@@ -9,5 +9,6 @@ Dicha tarea en intervalos de foco y descanso como plantea la metodología de Pom
 Las tecnologías que aprendí en skillnest son HTML, CSS, JS, Python y Django.
 
 Respecto al proyecto aca presente(portafolio estatico) es un proyecto desarrollado exclusivamente con HTML CSS y JS es un portafolio funcional basado en el proyecto de portafolio
-realizado en django
+realizado en django, hay caracteristicas que se agregaron pero que un no estan disponibles como en el proyecto poder ver un demo
+o ver el codigo subido a github pero el proyecto en cuestion aun se encuentra en desarrollo por lo que mantuve las caracteristicas del sitio que me parecen importantes a modo de mostrar un portafolio real aunque esto implique tener links que dan a nada en el detalle del proyecto.
 
